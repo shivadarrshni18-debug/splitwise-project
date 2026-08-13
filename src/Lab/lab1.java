@@ -17,5 +17,19 @@ public class lab1 {
         System.out.println(b);
         System.out.println(c);
         System.out.println("");
+
+        //lab B
+
+        final double TAX_RATE=0.18;
+        double amount=1000.0;
+
+        var total_value=amount/TAX_RATE;
+        System.out.println("Lab 2");
+        System.out.println("Tax calculation");
+        System.out.println(total_value);
+        System.out.println("");
+//        TAX_RATE= total_value;-->we cannot reassign a constant var with someother val
+
+
     }
 }
