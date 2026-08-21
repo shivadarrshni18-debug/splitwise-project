@@ -28,7 +28,7 @@ public class lab1 {
         System.out.println("Tax calculation");
         System.out.println(total_value);
         System.out.println("");
-//        TAX_RATE= total_value;-->we cannot reassign a constant var with someother val
+//        TAX_RATE= total_value;-->we cannot reassign a constant var with some other val
 
         //lab C
 
